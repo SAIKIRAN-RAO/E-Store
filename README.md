@@ -1,2 +1,2 @@
 # E-Store
-Mern Stack Ecommerce App
+Mern Stack food App
